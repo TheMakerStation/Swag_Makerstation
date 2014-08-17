@@ -10,8 +10,7 @@ Stuff for themakerstation.com
 
 
 
-###Keychain Type A
-
-
-###Keychain Type B
+###Keychain Types A & B
+![TypeA](placeholder)
+![TypeB](placeholder)
 
