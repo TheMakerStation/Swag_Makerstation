@@ -11,6 +11,5 @@ Stuff for themakerstation.com
 
 
 ###Keychain Types A & B
-!(https://github.com/tanju-b/Makerstation/blob/master/TypeA.JPG)
-!(https://github.com/tanju-b/Makerstation/blob/master/TypeB.JPG)
+![TypeA](https://github.com/tanju-b/Makerstation/blob/master/TypeA.JPG)![TypeB](https://github.com/tanju-b/Makerstation/blob/master/TypeB.JPG)
 
