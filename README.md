@@ -1,15 +1,17 @@
 The Makerstation Swag and Trinkets
 ============
 
-stuff for themakerstation.com
+Stuff for themakerstation.com
 
-Token
+----
+##Token  
+
 ![Token](https://github.com/tanju-b/Makerstation/blob/master/MakerStn%20Token.JPG)
 
 
 
-Keychain Type A
+##Keychain Type A
 
 
-Keychain Type B
+##Keychain Type B
 
